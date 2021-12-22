@@ -4,8 +4,6 @@
 
 A work in progress.
 
-Projects will be made available in the future.
-
 
 <!--
 **kevinkoeks/kevinkoeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
