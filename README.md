@@ -1,8 +1,6 @@
-### Hi there 👋
-
 ## Welcome to Kevin's Github!⚡
 
-A work in progress.
+
 
 
 <!--
